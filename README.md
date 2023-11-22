@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RourkeAmiss
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning Selenium
+- 🌱 I’m currently learning C# and .NET
 
 <!---
 RourkeAmiss/RourkeAmiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
