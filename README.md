@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RourkeAmiss
-- 👀 I’m interested in QA
+- 👀 I’m interested in SD
 - 🌱 I’m currently learning C# and .NET
 
 <!---
